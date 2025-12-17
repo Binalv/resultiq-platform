@@ -19,3 +19,5 @@ with open("model/model.pkl", "wb") as f:
     pickle.dump(model, f)
 
 print("ResultIQ model trained and saved successfully")
+
+
